@@ -1,6 +1,6 @@
 <div align="center"> 
 
-### Hi there 👋
+### Hi there 🪐
   
 ![Soph's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiaiscoding&show_icons=true&theme=radical)
 <br/>
