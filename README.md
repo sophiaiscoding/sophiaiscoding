@@ -2,12 +2,11 @@
 
 ### Hi there 🪐
   
-![Soph's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiaiscoding&show_icons=true&theme=radical)
+![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiaiscoding&show_icons=true&theme=radical?v=1)
 <br/>
 </div>
 
-
-- I’m currently working on Product Design 
-- I’m currently learning HTML, CSS & JavaScript
-- I’m looking to collaborate with Developers more efficiently
+- I’m a Product Designer
+- When it comes to code, I’m currently learning HTML, CSS & JavaScript
+- I’m doing this to collaborate with Developers more efficiently :)
 - My pronouns: she/her
