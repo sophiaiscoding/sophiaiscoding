@@ -7,7 +7,7 @@
 </div>
 
 
-- 🔭 I’m currently working on Product Design 
-- 🌱 I’m currently learning HTML, CSS & JavaScript
-- 👯 I’m looking to collaborate with Developers more efficiently
-- 😄 Pronouns: she/her
+- I’m currently working on Product Design 
+- I’m currently learning HTML, CSS & JavaScript
+- I’m looking to collaborate with Developers more efficiently
+- My pronouns: she/her
