@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Aprendendo HTML5, CSS3, JavaScript & Python
+  🦄 Linguagens: Aprendendo HTML5, CSS3, JavaScript & Python.
 </p>
 
 <p align="left">
