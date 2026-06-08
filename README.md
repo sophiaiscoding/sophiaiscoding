@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Eu sou uma <strong>Product Designer</strong> em busca de mais conhecimentos sobre desenvolvimento. Estou estudando mais sobre a aplicação de diferentes tecnologias e frameworks para colaborar com desenvolvedores de forma mais eficiente.
+  Olá! Eu sou uma <strong>Product Designer & Business Analyst</strong> em busca de mais conhecimentos sobre desenvolvimento. Estou estudando mais sobre a aplicação de diferentes tecnologias e frameworks para colaborar com desenvolvedores de forma mais eficiente.
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Figma, FigJam, Notion, Miro, Photoshop, Illustrator.
+  💼 Ferramentas: Figma, FigJam, Jira, Notion, Miro, GitHub.
 </p>
 
 <br>
